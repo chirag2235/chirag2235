@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Aws And MERN<br>💻 I'm currently enhancing my logics in Data Structures and Algorithm(DSA)
+🌱 💻 I'm currently enhancing my logics in Data Structures and Algorithm(DSA) <br/>I’m currently learning Aws And MERN
 
 
 ## 🌐 Socials:
